@@ -4,8 +4,8 @@ Rick Sanchez ist ein genialer Wissenschaftler. Er ist der Vater von Beth und som
 
 ## Sidekicks von RIck
 
-- Morty
-- Summer
-- Jerry
-- Beth
+* Morty
+* Summer
+* Jerry
+* Beth
 
