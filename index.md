@@ -9,3 +9,7 @@ Rick Sanchez ist ein genialer Wissenschaftler. Er ist der Vater von Beth und som
 * Jerry
 * Beth
 
+
+
+> If I'm always looking back, I'm never looking ahead. We are who we are because of consequences. You can't live without consequences.
+
